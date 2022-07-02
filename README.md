@@ -1,0 +1,1 @@
+this is a final project that I am working on at Ruangguru boot camp, I make predictions for product retail prices using linear regression, and make clustering of average profits per product category, I process data using postgresql, and do EDA and modeling using python, and visualize using tableau
